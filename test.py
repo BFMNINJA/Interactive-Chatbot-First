@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="AIzaSyDOS9P_jjMTChHUvu4MHQxdgGMTIweW8ng",
+    api_key="YOUR GEMINI API KEY",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
